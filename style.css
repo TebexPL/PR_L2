@@ -1,17 +1,7 @@
-
-body{
-  background-color: silver;
+.img {
+  width:100%;
 }
 
 .row {
-  margin-top: 10px;
-}
-
-.card {
-  background-color: lightgrey;
-}
-
-.btn {
-  background-color: grey;
-  border-color: grey;
+  padding: 15px;
 }
