@@ -1,1 +1,17 @@
 
+body{
+  background-color: silver;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+.card {
+  background-color: lightgrey;
+}
+
+.btn {
+  background-color: grey;
+  border-color: grey;
+}
